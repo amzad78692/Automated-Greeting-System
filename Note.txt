@@ -1,0 +1,5 @@
+install cmake
+install dlib
+install face_recognition
+install numpy
+install opencv-python
